@@ -1,0 +1,6 @@
+env     = "dev"
+region  = "us-west-2"
+profile = "default"
+username = "admin"
+password = "admin123"
+vpc_id  = "vpc-abc123"
