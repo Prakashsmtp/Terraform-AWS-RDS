@@ -1,0 +1,1 @@
+terraform apply -var="account_id=YOUR_AWS_ACCOUNT_ID" -var="iam_role_name=YOUR_IAM_ROLE_NAME"
